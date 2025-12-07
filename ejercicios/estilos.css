@@ -1,0 +1,40 @@
+html{
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+body{
+    background-color: bisque;
+    justify-content: center;
+
+}
+.cuerpo{
+    width:100% ;
+    min-width: 100%;
+    position: absolute;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items:center ;
+}
+
+.titulo{
+    text-align: center;
+    background-color: pink;
+     width: 20rem;
+    height: 4rem;
+    
+}
+
+.parrafo{
+    text-align: justify;
+    background-color: darksalmon;
+       width: 20rem;
+    height: 15rem;
+}
+
+.imagen{
+    display: flexbox;
+    flex-direction: column;
+   
+}

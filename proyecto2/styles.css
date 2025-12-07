@@ -1,0 +1,47 @@
+html{
+    font-size: 10px;
+    background-color: rgb(250, 198, 206);
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  1.6rem;
+    
+}
+
+.layout{
+width:100% ;
+min-width: 100%;
+
+position: absolute;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items:center ;
+}
+
+.layout_main{
+    width: 50rem;
+}
+
+.main_input{
+    display: block;
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    border: 2px solid palevioletred;
+    outline: none;
+    margin-bottom: 3rem;
+}
+
+.main_text{
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.text_search{
+    background-color: blueviolet;
+    border-radius: 1.5rem;
+    padding: 0.4rem;
+}
