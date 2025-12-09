@@ -15,4 +15,5 @@ input.addEventListener("keydown", (e) => {
 
 });
 //se puede usar para analizar apuntes cambiando el texto de index
+//prueba 5 errorrees conflictos 
 
