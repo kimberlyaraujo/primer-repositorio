@@ -31,7 +31,7 @@ height: 100%;
 }
 
 .content_btn{
-    position: absolute;
+    position: absolute;  
     left: 40%;
     right: 50%;
 
@@ -39,14 +39,14 @@ height: 100%;
     border: 2px solid rgb(238, 229, 236);
     background-color: rgb(224, 243, 243);
     padding: 2rem;
-    color: rgb(219, 11, 133);
+    color: rgb(228, 10, 137);
     font-weight:750 ;
     text-align: center;
     text-decoration: none;
     cursor: pointer;  
     margin: 0% auto;
     transition: all 300ms ease;
-    border-radius: 0.5rem;
+    border-radius: 0.4rem;
     
 
 }
